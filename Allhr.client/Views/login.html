@@ -1,0 +1,11 @@
+﻿<div>
+    <button ng-click="goToServer()">Kfir</button>
+    {{userName}}
+
+    Employer Name: <input ng-model="cvForm.employerName" />
+    Employer Id: <input ng-model="cvForm.employerId" />
+    Employee Name: <input ng-model="cvForm.employeeName" />
+    Employee Id: <input ng-model="cvForm.employeeId" />
+
+    <button ng-click="saveData()" ng-disabled="!checkCvForm()">Save</button>
+</div>

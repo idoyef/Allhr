@@ -1,0 +1,84 @@
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\ApplicationInsights.config
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\roslyn\csc.exe
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\roslyn\vbc.exe
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\roslyn\VBCSCompiler.exe
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Allhr.client.dll.config
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Allhr.client.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Allhr.client.pdb
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.AI.Web.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Newtonsoft.Json.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\System.Net.Http.Formatting.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\System.Web.Cors.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\System.Web.Http.Cors.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\System.Web.Http.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.AI.Web.xml
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\Newtonsoft.Json.xml
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\System.Net.Http.Formatting.xml
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\System.Web.Http.xml
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\bin\System.Web.Http.Cors.xml
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\obj\Debug\Allhr.client.csprojResolveAssemblyReference.cache
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\obj\Debug\Allhr.client.dll
+C:\Users\kfiry\documents\visual studio 2015\Projects\Allhr\Allhr.client\obj\Debug\Allhr.client.pdb
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\ApplicationInsights.config
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\roslyn\csc.exe
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\roslyn\vbc.exe
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Allhr.client.dll.config
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Allhr.client.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Allhr.client.pdb
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.AI.Web.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Newtonsoft.Json.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\System.Net.Http.Formatting.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\System.Web.Cors.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\System.Web.Http.Cors.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\System.Web.Http.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.AI.Web.xml
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\Newtonsoft.Json.xml
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\System.Net.Http.Formatting.xml
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\System.Web.Http.xml
+C:\Users\Ido\Desktop\Allhr\Allhr.client\bin\System.Web.Http.Cors.xml
+C:\Users\Ido\Desktop\Allhr\Allhr.client\obj\Debug\Allhr.client.csprojResolveAssemblyReference.cache
+C:\Users\Ido\Desktop\Allhr\Allhr.client\obj\Debug\Allhr.client.dll
+C:\Users\Ido\Desktop\Allhr\Allhr.client\obj\Debug\Allhr.client.pdb

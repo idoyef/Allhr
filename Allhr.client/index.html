@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+
+    <!--Theme configuration-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!--Theme configuration-->
+
+
+    <link href="Style/style.css" rel="stylesheet" />
+
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.12/angular.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.12/angular-route.min.js"></script>
+    <script src="app/app.module.js"></script>
+    <script src="app/routing.js"></script>
+
+    <script src="Controllers/loginCtrl.js"></script>
+    <script src="Controllers/mainCtrl.js"></script>
+    <script src="Controllers/testCtrl.js"></script>
+    <script src="Services/loginSvc.js"></script>
+    <script src="Services/mainSvc.js"></script>
+    
+</head>
+<body>
+    <div ng-view></div>
+       
+</body>
+</html>
